@@ -1,6 +1,6 @@
 G04 --- HEADER BEGIN --- *
 G04 #@! TF.GenerationSoftware,LibrePCB,LibrePCB,2.1.1*
-G04 #@! TF.CreationDate,2026-10-04T17:57:12*
+G04 #@! TF.CreationDate,2026-10-04T20:14:45*
 G04 #@! TF.ProjectId,CO2-Sensor,06764a5f-d6f5-4d99-a3b7-4686052c3b4a,v1*
 G04 #@! TF.Part,Single*
 G04 #@! TF.SameCoordinates*
@@ -233,5 +233,5 @@ G04 #@! TO.C,R2*
 X6200000Y22825000D03*
 X6200000Y21975000D03*
 G04 --- BOARD END --- *
-G04 #@! TF.MD5,1e64cbc2d0578bcd663f4e2b94751586*
+G04 #@! TF.MD5,dfaaa165a399fcfa5a853ba969787c56*
 M02*

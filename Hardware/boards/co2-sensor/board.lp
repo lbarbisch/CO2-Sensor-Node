@@ -500,6 +500,12 @@
    (auto_rotate true) (mirror false) (lock false) (value "{{NAME}}")
   )
  )
+ (device f9d7c026-c387-42d2-ab76-c638ad67aa50
+  (lib_device ee0f4a16-bb7c-4699-b50e-12597273e0d2)
+  (lib_footprint 83d4d250-9895-4a1b-9b33-d0850e1c25cd)
+  (lib_3d_model none)
+  (position 19.8 28.7) (rotation -270.0) (flip true) (lock false) (glue true)
+ )
  (device fe4dfd88-fed6-405a-b8d9-12faa674174b
   (lib_device 5ff4a2e5-3593-49ab-bdbe-f9b68015a3ed)
   (lib_footprint 244d2cbe-9562-46ad-a8d9-8b29e0a3c0cc)

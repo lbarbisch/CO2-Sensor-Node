@@ -658,6 +658,14 @@
   (signal b01cec39-3edc-448f-b319-192bcf74479c (net ec91c1a2-87ba-4a19-adb9-d86ab0d56dc8))
   (signal cf5c8bce-e0a6-4a5e-8bdc-fc425e4ab403 (net 80337049-2165-4c21-a15f-3982e77905c1))
  )
+ (component f9d7c026-c387-42d2-ab76-c638ad67aa50
+  (lib_component 58451453-78c4-4a0e-9e73-728eee12a831)
+  (lib_variant d5022002-cf9d-4054-8c21-83435c340152)
+  (name "LOGO2") (value "{{DEVICE}}")
+  (lock_assembly false)
+  (device ee0f4a16-bb7c-4699-b50e-12597273e0d2
+  )
+ )
  (component fa9cad04-5144-4d5a-9f98-86900eab2a06
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
   (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)

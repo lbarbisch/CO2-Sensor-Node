@@ -454,6 +454,11 @@
    (value "{{VALUE}}")
   )
  )
+ (symbol cb31e606-fbc2-4106-bb84-3068e8a7576a
+  (component f9d7c026-c387-42d2-ab76-c638ad67aa50)
+  (lib_gate 7e3831ad-c973-4fb2-909a-ec172dfde01f)
+  (position 153.67 7.62) (rotation 0.0) (mirror false)
+ )
  (symbol cc10e5cd-2020-4cad-a37d-32c499ce3d71
   (component a050cafb-ddf6-46f6-acc2-a0805c186e9a)
   (lib_gate 6ca391c0-1c6d-4176-9607-31bf40d1b406)
